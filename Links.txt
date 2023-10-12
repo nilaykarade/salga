@@ -1,0 +1,11 @@
+download link
+https://www.tableau.com/products/public/download
+
+SALGA
+https://public.tableau.com/app/profile/nilay.karade/viz/SALGADemo1/Dashboard1?publish=yes
+
+dashboards
+https://public.tableau.com/app/profile/nilay.karade/viz/Superstore1_16564381853430/Dashboard2
+https://public.tableau.com/app/profile/nilay.karade/viz/TwitterStockPriceAnalytics/Dashboard1
+https://public.tableau.com/app/profile/nilay.karade/viz/BankChurningPart2/Churn
+
